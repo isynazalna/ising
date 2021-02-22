@@ -1,6 +1,6 @@
 # ising
-A simulation for 2D Ising modeling with Monte Carlo method
-Monte Carlo simulation for 2D Ising Model
+A simulation for 2D Ising modeling with metropolis algorithm-Monte Carlo method
+
 
 This Ising model used for simulating magnetic systems (positive, negative, or random spins) by applying the Metropolis algorithm-Monte Carlo method. Run the main file, input the lattice size (favorably 100) then choose an input spin as the initial configuration. Two different temperatures (T=2.0 and T=2.5) were set. 
 
